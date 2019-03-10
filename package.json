@@ -1,0 +1,23 @@
+{
+  "name": "mise_en_pratique",
+  "version": "1.0.0",
+  "description": "Projet de mise en pratique pour l'UE MEP.",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abergnel/Mise_En_Pratique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abergnel/Mise_En_Pratique/issues"
+  },
+  "homepage": "https://github.com/abergnel/Mise_En_Pratique#readme"
+}
